@@ -1,0 +1,16 @@
+    p{
+        font-style: italic;
+    }
+    div, p, span{ 
+        font-size: 12pt;
+    }
+    
+    div{
+        text-decoration: underline;
+        text-shadow: 1px 1px 0px greenyellow;
+
+    }
+    span{
+        background-color: rgb(158, 234, 255);
+        font-weight: bold;
+    }
